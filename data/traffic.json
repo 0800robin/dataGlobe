@@ -1,0 +1,1219 @@
+{
+    "traffic_index": "A composite index of time consumed in traffic due to job commute, estimation of time consumption dissatisfaction, CO2 consumption estimation in traffic and overall inefficiencies in the traffic system. </br> </br> Mumbia and Cairo rate very badly. ",
+    "time_mins": "The average time needed to transport, in minutes.",
+    "time_index": "An estimation of dissatisfaction due to long commute times. It assumes that the dissatisfaction of commute times increases exponentially with each minute after one way commute time is longer than 25 minutes.</br> </br>  Residents in Mumbia are the least satisfied by far. ",
+    "inefficiency_index": "An estimation of inefficiencies in the traffic system. High values assume very busy levels of driving and overall structural imperfections have lead to long commute times and poor travel options. </br> </br>  Most of the top values are capital cities.",
+    "emission_index": "An estimation of CO2 emission due to traffic. This value is calculated by averaging the commute time to and from work, and then multiplying by relative Co2 emission levels from buses, cars and other methods of transport.  </br> </br> Europe is leading the way here. ",
+    "traffic_data": [
+        {
+            "city": "Istanbul, Turkey",
+            "lat": 41.00527,
+            "lng": 28.97696,
+            "traffic_index": 335.34,
+            "time_mins": 68.38,
+            "time_index": 28283.26,
+            "inefficiency_index": 269.77,
+            "emission_index": 6783.12
+        },
+        {
+            "city": "Dhaka, Bangladesh",
+            "lat": 23.810332,
+            "lng": 90.4125181,
+            "traffic_index": 309.81,
+            "time_mins": 60.2,
+            "time_index": 16053.53,
+            "inefficiency_index": 374.85,
+            "emission_index": 10722
+        },
+        {
+            "city": "Tehran, Iran",
+            "lat": 35.6961111,
+            "lng": 51.4230556,
+            "traffic_index": 305.15,
+            "time_mins": 61,
+            "time_index": 17061.78,
+            "inefficiency_index": 257.27,
+            "emission_index": 9504.59
+        },
+        {
+            "city": "Jakarta, Indonesia",
+            "lat": -6.2087634,
+            "lng": 106.845599,
+            "traffic_index": 300.55,
+            "time_mins": 56.43,
+            "time_index": 11809.47,
+            "inefficiency_index": 300.94,
+            "emission_index": 13947.14
+        },
+        {
+            "city": "Saint Petersburg, Russia",
+            "lat": 59.9342802,
+            "lng": 30.3350986,
+            "traffic_index": 299.54,
+            "time_mins": 62.5,
+            "time_index": 19058.43,
+            "inefficiency_index": 300.33,
+            "emission_index": 6668.75
+        },
+        {
+            "city": "Amman, Jordan",
+            "lat": 31.9565783,
+            "lng": 35.9456951,
+            "traffic_index": 286.94,
+            "time_mins": 60.2,
+            "time_index": 16053.53,
+            "inefficiency_index": 299.98,
+            "emission_index": 6842
+        },
+        {
+            "city": "Moscow, Russia",
+            "lat": 55.755826,
+            "lng": 37.6173,
+            "traffic_index": 267.56,
+            "time_mins": 58,
+            "time_index": 13477.89,
+            "inefficiency_index": 223.48,
+            "emission_index": 6165.33
+        },
+        {
+            "city": "Manila, Philippines",
+            "lat": 14.5995124,
+            "lng": 120.9842195,
+            "traffic_index": 264.38,
+            "time_mins": 54.7,
+            "time_index": 10132.53,
+            "inefficiency_index": 269.8,
+            "emission_index": 8573
+        },
+        {
+            "city": "Buenos Aires, Argentina",
+            "lat": -34.6037232,
+            "lng": -58.3815931,
+            "traffic_index": 217.17,
+            "time_mins": 47.22,
+            "time_index": 4628.09,
+            "inefficiency_index": 213.41,
+            "emission_index": 7622.22
+        },
+        {
+            "city": "Berlin, Germany",
+            "lat": 52.52000659999999,
+            "lng": 13.404954,
+            "traffic_index": 212.34,
+            "time_mins": 49.46,
+            "time_index": 5996.36,
+            "inefficiency_index": 468.42,
+            "emission_index": 4070
+        },
+        {
+            "city": "Beirut, Lebanon",
+            "lat": 33.8886289,
+            "lng": 35.4954794,
+            "traffic_index": 200.15,
+            "time_mins": 41.75,
+            "time_index": 2166.06,
+            "inefficiency_index": 143.51,
+            "emission_index": 9975
+        },
+        {
+            "city": "Cape Town, South Africa",
+            "lat": -33.9248685,
+            "lng": 18.4240553,
+            "traffic_index": 196.93,
+            "time_mins": 42.44,
+            "time_index": 2414.77,
+            "inefficiency_index": 223.47,
+            "emission_index": 8171.11
+        },
+        {
+            "city": "Caracas, Venezuela",
+            "lat": 10.5,
+            "lng": -66.9166667,
+            "traffic_index": 182.07,
+            "time_mins": 38.75,
+            "time_index": 1281.05,
+            "inefficiency_index": 163.37,
+            "emission_index": 8977.5
+        },
+        {
+            "city": "Rome, Italy",
+            "lat": 41.89401540000001,
+            "lng": 12.4817381,
+            "traffic_index": 180.69,
+            "time_mins": 44.62,
+            "time_index": 3307.81,
+            "inefficiency_index": 197.99,
+            "emission_index": 4158.62
+        },
+        {
+            "city": "Johannesburg, South Africa",
+            "lat": -26.2041028,
+            "lng": 28.0473051,
+            "traffic_index": 175.47,
+            "time_mins": 36.83,
+            "time_index": 862.89,
+            "inefficiency_index": 157.45,
+            "emission_index": 9354.33
+        },
+        {
+            "city": "Athens, Greece",
+            "lat": 37.983917,
+            "lng": 23.7293599,
+            "traffic_index": 173.93,
+            "time_mins": 41.64,
+            "time_index": 2129.22,
+            "inefficiency_index": 180.59,
+            "emission_index": 5286.07
+        },
+        {
+            "city": "Milan, Italy",
+            "lat": 45.4654542,
+            "lng": 9.186516,
+            "traffic_index": 173.89,
+            "time_mins": 44,
+            "time_index": 3036.35,
+            "inefficiency_index": 137.72,
+            "emission_index": 3975.78
+        },
+        {
+            "city": "Bangkok, Thailand",
+            "lat": 13.7278956,
+            "lng": 100.5241235,
+            "traffic_index": 165.93,
+            "time_mins": 36.5,
+            "time_index": 800.82,
+            "inefficiency_index": 131.42,
+            "emission_index": 8040
+        },
+        {
+            "city": "Lisbon, Portugal",
+            "lat": 38.7222524,
+            "lng": -9.1393366,
+            "traffic_index": 156.96,
+            "time_mins": 41.54,
+            "time_index": 2093.71,
+            "inefficiency_index": 141.21,
+            "emission_index": 3339.23
+        },
+        {
+            "city": "Bucharest, Romania",
+            "lat": 44.4325,
+            "lng": 26.1038889,
+            "traffic_index": 156.4,
+            "time_mins": 38.12,
+            "time_index": 1132.86,
+            "inefficiency_index": 152.32,
+            "emission_index": 5223.75
+        },
+        {
+            "city": "Doha, Qatar",
+            "lat": 25.2866667,
+            "lng": 51.5333333,
+            "traffic_index": 156.36,
+            "time_mins": 33.4,
+            "time_index": 358.83,
+            "inefficiency_index": 106.59,
+            "emission_index": 8778
+        },
+        {
+            "city": "Tokyo, Japan",
+            "lat": 35.6894875,
+            "lng": 139.6917064,
+            "traffic_index": 154.57,
+            "time_mins": 47.64,
+            "time_index": 4868.06,
+            "inefficiency_index": 117.87,
+            "emission_index": 691.43
+        },
+        {
+            "city": "Budapest, Hungary",
+            "lat": 47.497912,
+            "lng": 19.040235,
+            "traffic_index": 154.44,
+            "time_mins": 41.54,
+            "time_index": 2093.71,
+            "inefficiency_index": 136.64,
+            "emission_index": 3075.23
+        },
+        {
+            "city": "Beijing, China",
+            "lat": 39.90403,
+            "lng": 116.407526,
+            "traffic_index": 144.97,
+            "time_mins": 31.4,
+            "time_index": 186.79,
+            "inefficiency_index": 185.11,
+            "emission_index": 7448
+        },
+        {
+            "city": "Ulaanbaatar, Mongolia",
+            "lat": 47.91999999999999,
+            "lng": 106.92,
+            "traffic_index": 143.7,
+            "time_mins": 36.86,
+            "time_index": 867.44,
+            "inefficiency_index": 100.07,
+            "emission_index": 4541.43
+        },
+        {
+            "city": "Poznan, Poland",
+            "lat": 52.406374,
+            "lng": 16.9251681,
+            "traffic_index": 138.93,
+            "time_mins": 41.25,
+            "time_index": 1997.57,
+            "inefficiency_index": 67.41,
+            "emission_index": 2005
+        },
+        {
+            "city": "Warsaw, Poland",
+            "lat": 52.2296756,
+            "lng": 21.0122287,
+            "traffic_index": 136.12,
+            "time_mins": 37.5,
+            "time_index": 996.26,
+            "inefficiency_index": 85.1,
+            "emission_index": 3344.46
+        },
+        {
+            "city": "Madrid, Spain",
+            "lat": 40.4167754,
+            "lng": -3.7037902,
+            "traffic_index": 135.14,
+            "time_mins": 34.88,
+            "time_index": 540.04,
+            "inefficiency_index": 120.79,
+            "emission_index": 4361.25
+        },
+        {
+            "city": "Tbilisi, Georgia",
+            "lat": 41.7166667,
+            "lng": 44.7833333,
+            "traffic_index": 130.36,
+            "time_mins": 38,
+            "time_index": 1104.63,
+            "inefficiency_index": 154.16,
+            "emission_index": 2182
+        },
+        {
+            "city": "Stockholm, Sweden",
+            "lat": 59.32893000000001,
+            "lng": 18.06491,
+            "traffic_index": 128,
+            "time_mins": 37.75,
+            "time_index": 1049.54,
+            "inefficiency_index": 82,
+            "emission_index": 2381.25
+        },
+        {
+            "city": "Almaty, Kazakhstan",
+            "lat": 43.2775,
+            "lng": 76.89583329999999,
+            "traffic_index": 126.79,
+            "time_mins": 40,
+            "time_index": 1613.79,
+            "inefficiency_index": 50.17,
+            "emission_index": 1563.33
+        },
+        {
+            "city": "Sofia, Bulgaria",
+            "lat": 42.6978388,
+            "lng": 23.3216697,
+            "traffic_index": 121.35,
+            "time_mins": 37.91,
+            "time_index": 1084.38,
+            "inefficiency_index": 181.08,
+            "emission_index": 1373.09
+        },
+        {
+            "city": "Wroclaw, Poland",
+            "lat": 51.1078852,
+            "lng": 17.0385376,
+            "traffic_index": 120.11,
+            "time_mins": 35.86,
+            "time_index": 689.54,
+            "inefficiency_index": 76.11,
+            "emission_index": 2427.14
+        },
+        {
+            "city": "Zagreb, Croatia",
+            "lat": 45.8130293,
+            "lng": 15.9778949,
+            "traffic_index": 118.73,
+            "time_mins": 33.86,
+            "time_index": 409.7,
+            "inefficiency_index": 104.35,
+            "emission_index": 2961.14
+        },
+        {
+            "city": "Shanghai, China",
+            "lat": 31.230416,
+            "lng": 121.473701,
+            "traffic_index": 113.47,
+            "time_mins": 34.33,
+            "time_index": 467.68,
+            "inefficiency_index": 90.02,
+            "emission_index": 2306.67
+        },
+        {
+            "city": "Copenhagen, Denmark",
+            "lat": 55.6760968,
+            "lng": 12.5683371,
+            "traffic_index": 110.2,
+            "time_mins": 27.57,
+            "time_index": 40.6,
+            "inefficiency_index": 92.35,
+            "emission_index": 4441.43
+        },
+        {
+            "city": "Barcelona, Spain",
+            "lat": 41.3850639,
+            "lng": 2.1734035,
+            "traffic_index": 106.47,
+            "time_mins": 28.71,
+            "time_index": 64.12,
+            "inefficiency_index": 68.13,
+            "emission_index": 3781.43
+        },
+        {
+            "city": "Paris, France",
+            "lat": 48.856614,
+            "lng": 2.3522219,
+            "traffic_index": 105.81,
+            "time_mins": 35.67,
+            "time_index": 658.64,
+            "inefficiency_index": 90.64,
+            "emission_index": 1222.22
+        },
+        {
+            "city": "Auckland, New Zealand",
+            "lat": -36.8484597,
+            "lng": 174.7633315,
+            "traffic_index": 104.05,
+            "time_mins": 34,
+            "time_index": 426.55,
+            "inefficiency_index": 53.69,
+            "emission_index": 1769.6
+        },
+        {
+            "city": "Belgrade, Serbia",
+            "lat": 44.8205556,
+            "lng": 20.4622222,
+            "traffic_index": 102.59,
+            "time_mins": 26,
+            "time_index": 27,
+            "inefficiency_index": 59.65,
+            "emission_index": 4053.33
+        },
+        {
+            "city": "Yerevan, Armenia",
+            "lat": 40.183333,
+            "lng": 44.516667,
+            "traffic_index": 101.88,
+            "time_mins": 31.43,
+            "time_index": 188.71,
+            "inefficiency_index": 67.75,
+            "emission_index": 2350.86
+        },
+        {
+            "city": "Prague, Czech Republic",
+            "lat": 50.0755381,
+            "lng": 14.4378005,
+            "traffic_index": 95.69,
+            "time_mins": 34.33,
+            "time_index": 467.68,
+            "inefficiency_index": 58.48,
+            "emission_index": 1029.11
+        },
+        {
+            "city": "Thessaloniki, Greece",
+            "lat": 40.6400629,
+            "lng": 22.9444191,
+            "traffic_index": 94.16,
+            "time_mins": 20.5,
+            "time_index": 20.5,
+            "inefficiency_index": 53.34,
+            "emission_index": 3822.5
+        },
+        {
+            "city": "Brno, Czech Republic",
+            "lat": 49.1950602,
+            "lng": 16.6068371,
+            "traffic_index": 93.07,
+            "time_mins": 30.22,
+            "time_index": 119.62,
+            "inefficiency_index": 59.07,
+            "emission_index": 1955.56
+        },
+        {
+            "city": "Wellington, New Zealand",
+            "lat": -41.2864603,
+            "lng": 174.776236,
+            "traffic_index": 92.2,
+            "time_mins": 27.5,
+            "time_index": 39.57,
+            "inefficiency_index": 51.09,
+            "emission_index": 2627.5
+        },
+        {
+            "city": "Seoul, South Korea",
+            "lat": 37.566535,
+            "lng": 126.9779692,
+            "traffic_index": 90.74,
+            "time_mins": 34.75,
+            "time_index": 522.72,
+            "inefficiency_index": 85.58,
+            "emission_index": 570
+        },
+        {
+            "city": "Oslo, Norway",
+            "lat": 59.9138688,
+            "lng": 10.7522454,
+            "traffic_index": 87.84,
+            "time_mins": 32,
+            "time_index": 230.25,
+            "inefficiency_index": 50.93,
+            "emission_index": 1124
+        },
+        {
+            "city": "Vilnius, Lithuania",
+            "lat": 54.6871555,
+            "lng": 25.2796514,
+            "traffic_index": 87.21,
+            "time_mins": 25.71,
+            "time_index": 26.11,
+            "inefficiency_index": 90.71,
+            "emission_index": 2195.71
+        },
+        {
+            "city": "Hamburg, Germany",
+            "lat": 53.5510846,
+            "lng": 9.9936818,
+            "traffic_index": 86.9,
+            "time_mins": 24.2,
+            "time_index": 24.2,
+            "inefficiency_index": 50.27,
+            "emission_index": 2570
+        },
+        {
+            "city": "Ljubljana, Slovenia",
+            "lat": 46.05645089999999,
+            "lng": 14.5080702,
+            "traffic_index": 81.64,
+            "time_mins": 20.8,
+            "time_index": 20.8,
+            "inefficiency_index": 29.4,
+            "emission_index": 2586
+        },
+        {
+            "city": "Bergen, Norway",
+            "lat": 60.39126279999999,
+            "lng": 5.3220544,
+            "traffic_index": 79.98,
+            "time_mins": 28.4,
+            "time_index": 56.24,
+            "inefficiency_index": 44.83,
+            "emission_index": 1397.6
+        },
+        {
+            "city": "Porto, Portugal",
+            "lat": 41.1566892,
+            "lng": -8.6239254,
+            "traffic_index": 78.52,
+            "time_mins": 22.29,
+            "time_index": 22.29,
+            "inefficiency_index": 39.94,
+            "emission_index": 2042.86
+        },
+        {
+            "city": "Dublin, Ireland",
+            "lat": 53.3498053,
+            "lng": -6.2603097,
+            "traffic_index": 70.99,
+            "time_mins": 24.12,
+            "time_index": 24.12,
+            "inefficiency_index": 65.53,
+            "emission_index": 1146.77
+        },
+        {
+            "city": "Trondheim, Norway",
+            "lat": 63.4305149,
+            "lng": 10.3950528,
+            "traffic_index": 67.7,
+            "time_mins": 19.14,
+            "time_index": 19.14,
+            "inefficiency_index": 34.58,
+            "emission_index": 1466.86
+        },
+        {
+            "city": "Katowice, Poland",
+            "lat": 50.26489189999999,
+            "lng": 19.0237815,
+            "traffic_index": 67.62,
+            "time_mins": 13.4,
+            "time_index": 13.4,
+            "inefficiency_index": 26.86,
+            "emission_index": 2059.2
+        },
+        {
+            "city": "Tallinn, Estonia",
+            "lat": 59.43696079999999,
+            "lng": 24.7535746,
+            "traffic_index": 61.96,
+            "time_mins": 25.5,
+            "time_index": 25.65,
+            "inefficiency_index": 18.03,
+            "emission_index": 737
+        },
+        {
+            "city": "Frankfurt, Germany",
+            "lat": 50.1109221,
+            "lng": 8.6821267,
+            "traffic_index": 59.65,
+            "time_mins": 28.75,
+            "time_index": 65.09,
+            "inefficiency_index": 49.36,
+            "emission_index": 250
+        },
+        {
+            "city": "Zurich, Switzerland",
+            "lat": 47.3686498,
+            "lng": 8.539182499999999,
+            "traffic_index": 50.75,
+            "time_mins": 24.8,
+            "time_index": 24.8,
+            "inefficiency_index": 21.19,
+            "emission_index": 268
+        },
+        {
+            "city": "Vienna, Austria",
+            "lat": 48.2081743,
+            "lng": 16.3738189,
+            "traffic_index": 49.25,
+            "time_mins": 25.33,
+            "time_index": 25.38,
+            "inefficiency_index": 8.19,
+            "emission_index": 256.67
+        },
+        {
+            "city": "Mumbai, Maharashtra, India",
+            "lat": 19.0759837,
+            "lng": 72.8776559,
+            "traffic_index": 386.8,
+            "time_mins": 74.8,
+            "time_index": 41146.97,
+            "inefficiency_index": 353.01,
+            "emission_index": 8166
+        },
+        {
+            "city": "Ankara/Ankara Province, Turkey",
+            "lat": 39.92077,
+            "lng": 32.85411,
+            "traffic_index": 191.59,
+            "time_mins": 44.83,
+            "time_index": 3407.53,
+            "inefficiency_index": 192.14,
+            "emission_index": 5553.33
+        },
+        {
+            "city": "Bogotá, Bogota, Colombia",
+            "lat": 4.598055599999999,
+            "lng": -74.0758333,
+            "traffic_index": 169.05,
+            "time_mins": 45.5,
+            "time_index": 3724.39,
+            "inefficiency_index": 218.55,
+            "emission_index": 2279
+        },
+        {
+            "city": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+            "lat": 3.139003,
+            "lng": 101.686855,
+            "traffic_index": 195.3,
+            "time_mins": 43.67,
+            "time_index": 2895.46,
+            "inefficiency_index": 179.97,
+            "emission_index": 7124.44
+        },
+        {
+            "city": "Manchester, UK",
+            "lat": 53.479324,
+            "lng": -2.2484851,
+            "traffic_index": 208.32,
+            "time_mins": 45.25,
+            "time_index": 3603.46,
+            "inefficiency_index": 178.03,
+            "emission_index": 8046.5
+        },
+        {
+            "city": "Sydney NSW, Australia",
+            "lat": -33.8674869,
+            "lng": 151.2069902,
+            "traffic_index": 186.12,
+            "time_mins": 43.47,
+            "time_index": 2814.57,
+            "inefficiency_index": 175.77,
+            "emission_index": 5827.53
+        },
+        {
+            "city": "Porto Alegre - Rio Grande do Sul, Brazil",
+            "lat": -30.0346471,
+            "lng": -51.2176584,
+            "traffic_index": 185.85,
+            "time_mins": 49,
+            "time_index": 5695.81,
+            "inefficiency_index": 137.82,
+            "emission_index": 2464
+        },
+        {
+            "city": "Melbourne VIC, Australia",
+            "lat": -37.814107,
+            "lng": 144.96328,
+            "traffic_index": 170.68,
+            "time_mins": 40.81,
+            "time_index": 1857.25,
+            "inefficiency_index": 155.37,
+            "emission_index": 5522.12
+        },
+        {
+            "city": "Vancouver, BC, Canada",
+            "lat": 49.261226,
+            "lng": -123.1139268,
+            "traffic_index": 167.45,
+            "time_mins": 40.75,
+            "time_index": 1837.74,
+            "inefficiency_index": 176.65,
+            "emission_index": 4976.33
+        },
+        {
+            "city": "Brisbane QLD, Australia",
+            "lat": -27.4710107,
+            "lng": 153.0234489,
+            "traffic_index": 191,
+            "time_mins": 45.82,
+            "time_index": 3882,
+            "inefficiency_index": 227.29,
+            "emission_index": 4596.55
+        },
+        {
+            "city": "Tel Aviv, Israel",
+            "lat": 32.0852999,
+            "lng": 34.78176759999999,
+            "traffic_index": 188.55,
+            "time_mins": 44.8,
+            "time_index": 3392.15,
+            "inefficiency_index": 216.86,
+            "emission_index": 5010
+        },
+        {
+            "city": "Toronto, ON, Canada",
+            "lat": 43.653226,
+            "lng": -79.3831843,
+            "traffic_index": 175.54,
+            "time_mins": 40.11,
+            "time_index": 1644.1,
+            "inefficiency_index": 236.45,
+            "emission_index": 6322.11
+        },
+        {
+            "city": "Belo Horizonte - Minas Gerais, Brazil",
+            "lat": -19.9191013,
+            "lng": -43.9386094,
+            "traffic_index": 279.84,
+            "time_mins": 57.5,
+            "time_index": 12931.84,
+            "inefficiency_index": 258.61,
+            "emission_index": 8563.33
+        },
+        {
+            "city": "London, UK",
+            "lat": 51.508515,
+            "lng": -0.1254872,
+            "traffic_index": 163.96,
+            "time_mins": 47.53,
+            "time_index": 4804.84,
+            "inefficiency_index": 319.09,
+            "emission_index": 855.33
+        },
+        {
+            "city": "Cairo, Cairo Governorate, Egypt",
+            "lat": 30.0444196,
+            "lng": 31.2357116,
+            "traffic_index": 353.24,
+            "time_mins": 64.5,
+            "time_index": 21942.16,
+            "inefficiency_index": 354.81,
+            "emission_index": 14830.2
+        },
+        {
+            "city": "Adelaide SA, Australia",
+            "lat": -34.92862119999999,
+            "lng": 138.5999594,
+            "traffic_index": 77,
+            "time_mins": 20.2,
+            "time_index": 20.2,
+            "inefficiency_index": 41.65,
+            "emission_index": 2102
+        },
+        {
+            "city": "Pune, Maharashtra, India",
+            "lat": 18.5204303,
+            "lng": 73.8567437,
+            "traffic_index": 347.5,
+            "time_mins": 64,
+            "time_index": 21197.04,
+            "inefficiency_index": 273.9,
+            "emission_index": 14727.5
+        },
+        {
+            "city": "Ottawa, ON, Canada",
+            "lat": 45.4215296,
+            "lng": -75.69719309999999,
+            "traffic_index": 166.85,
+            "time_mins": 40,
+            "time_index": 1613.79,
+            "inefficiency_index": 144.46,
+            "emission_index": 5574
+        },
+        {
+            "city": "Dubai - United Arab Emirates",
+            "lat": 25.0476643,
+            "lng": 55.1817407,
+            "traffic_index": 152.2,
+            "time_mins": 35.43,
+            "time_index": 621.33,
+            "inefficiency_index": 252.74,
+            "emission_index": 5767.71
+        },
+        {
+            "city": "Singapore",
+            "lat": 1.2800945,
+            "lng": 103.8509491,
+            "traffic_index": 197.06,
+            "time_mins": 48.1,
+            "time_index": 5137.68,
+            "inefficiency_index": 161.48,
+            "emission_index": 4169.8
+        },
+        {
+            "city": "New York, NY, USA",
+            "lat": 40.7143528,
+            "lng": -74.00597309999999,
+            "traffic_index": 147.86,
+            "time_mins": 39.38,
+            "time_index": 1443.45,
+            "inefficiency_index": 107.65,
+            "emission_index": 3612.53
+        },
+        {
+            "city": "Austin, TX, USA",
+            "lat": 30.267153,
+            "lng": -97.7430608,
+            "traffic_index": 196.24,
+            "time_mins": 39.75,
+            "time_index": 1543.26,
+            "inefficiency_index": 206.78,
+            "emission_index": 10573.5
+        },
+        {
+            "city": "Denver, CO, USA",
+            "lat": 39.737567,
+            "lng": -104.9847179,
+            "traffic_index": 202.68,
+            "time_mins": 43.33,
+            "time_index": 2758.81,
+            "inefficiency_index": 147.25,
+            "emission_index": 8966.67
+        },
+        {
+            "city": "Coimbatore, Tamil Nadu, India",
+            "lat": 11.0168445,
+            "lng": 76.9558321,
+            "traffic_index": 272.42,
+            "time_mins": 63.75,
+            "time_index": 20830.58,
+            "inefficiency_index": 304.25,
+            "emission_index": 2200
+        },
+        {
+            "city": "Santiago, Santiago Metropolitan Region, Chile",
+            "lat": -33.4691199,
+            "lng": -70.641997,
+            "traffic_index": 212.48,
+            "time_mins": 50.6,
+            "time_index": 6780.26,
+            "inefficiency_index": 155.83,
+            "emission_index": 4496
+        },
+        {
+            "city": "Bangalore, Karnataka, India",
+            "lat": 12.9715987,
+            "lng": 77.5945627,
+            "traffic_index": 208.49,
+            "time_mins": 45.12,
+            "time_index": 3543.94,
+            "inefficiency_index": 220.14,
+            "emission_index": 7920.38
+        },
+        {
+            "city": "San Diego, CA, USA",
+            "lat": 32.7153292,
+            "lng": -117.1572551,
+            "traffic_index": 264.15,
+            "time_mins": 56.25,
+            "time_index": 11628.66,
+            "inefficiency_index": 249.8,
+            "emission_index": 7100
+        },
+        {
+            "city": "Dallas, TX, USA",
+            "lat": 32.7801399,
+            "lng": -96.80045109999999,
+            "traffic_index": 211.19,
+            "time_mins": 44,
+            "time_index": 3036.35,
+            "inefficiency_index": 177.05,
+            "emission_index": 9757.5
+        },
+        {
+            "city": "Chennai, Tamil Nadu, India",
+            "lat": 13.0524139,
+            "lng": 80.25082460000002,
+            "traffic_index": 194.37,
+            "time_mins": 47.33,
+            "time_index": 4690.73,
+            "inefficiency_index": 156.54,
+            "emission_index": 4360.83
+        },
+        {
+            "city": "Montreal, QC, Canada",
+            "lat": 45.5086699,
+            "lng": -73.55399249999999,
+            "traffic_index": 204.82,
+            "time_mins": 48.13,
+            "time_index": 5157.7,
+            "inefficiency_index": 210.36,
+            "emission_index": 4950.93
+        },
+        {
+            "city": "Edmonton, AB, Canada",
+            "lat": 53.544389,
+            "lng": -113.4909267,
+            "traffic_index": 143.49,
+            "time_mins": 33.6,
+            "time_index": 380.52,
+            "inefficiency_index": 154.05,
+            "emission_index": 6078.8
+        },
+        {
+            "city": "Kolkata, West Bengal, India",
+            "lat": 22.572646,
+            "lng": 88.36389500000001,
+            "traffic_index": 325.14,
+            "time_mins": 60.88,
+            "time_index": 16901.67,
+            "inefficiency_index": 440.96,
+            "emission_index": 12827
+        },
+        {
+            "city": "Houston, TX, USA",
+            "lat": 29.7601927,
+            "lng": -95.36938959999999,
+            "traffic_index": 199.39,
+            "time_mins": 40.94,
+            "time_index": 1898.88,
+            "inefficiency_index": 187.32,
+            "emission_index": 10238.33
+        },
+        {
+            "city": "New Delhi, Delhi, India",
+            "lat": 28.635308,
+            "lng": 77.22496,
+            "traffic_index": 223.37,
+            "time_mins": 47.08,
+            "time_index": 4546.99,
+            "inefficiency_index": 233.32,
+            "emission_index": 8757.69
+        },
+        {
+            "city": "Hong Kong",
+            "lat": 22.396428,
+            "lng": 114.109497,
+            "traffic_index": 149.35,
+            "time_mins": 40.43,
+            "time_index": 1739.47,
+            "inefficiency_index": 142.24,
+            "emission_index": 3057.14
+        },
+        {
+            "city": "Perth WA, Australia",
+            "lat": -31.9530044,
+            "lng": 115.8574693,
+            "traffic_index": 144.75,
+            "time_mins": 38.45,
+            "time_index": 1209.53,
+            "inefficiency_index": 137.98,
+            "emission_index": 3572
+        },
+        {
+            "city": "Salt Lake City, UT, USA",
+            "lat": 40.7607793,
+            "lng": -111.8910474,
+            "traffic_index": 317.73,
+            "time_mins": 66,
+            "time_index": 24276.35,
+            "inefficiency_index": 259.84,
+            "emission_index": 6368.67
+        },
+        {
+            "city": "Hyderabad, Andhra Pradesh, India",
+            "lat": 17.385044,
+            "lng": 78.486671,
+            "traffic_index": 221.89,
+            "time_mins": 50.45,
+            "time_index": 6676.68,
+            "inefficiency_index": 246.09,
+            "emission_index": 5481.82
+        },
+        {
+            "city": "Phoenix, AZ, USA",
+            "lat": 33.4483771,
+            "lng": -112.0740373,
+            "traffic_index": 144.19,
+            "time_mins": 33.75,
+            "time_index": 397.37,
+            "inefficiency_index": 105.8,
+            "emission_index": 6435
+        },
+        {
+            "city": "Mexico City, Federal District, Mexico",
+            "lat": 19.4326077,
+            "lng": -99.133208,
+            "traffic_index": 256.39,
+            "time_mins": 50.56,
+            "time_index": 6748.5,
+            "inefficiency_index": 299.68,
+            "emission_index": 11315.56
+        },
+        {
+            "city": "Rio - Rio de Janeiro, Brazil",
+            "lat": -22.9082998,
+            "lng": -43.1970773,
+            "traffic_index": 151.42,
+            "time_mins": 45,
+            "time_index": 3485.06,
+            "inefficiency_index": 134.82,
+            "emission_index": 1280
+        },
+        {
+            "city": "Ahmedabad, Gujarat, India",
+            "lat": 23.022505,
+            "lng": 72.5713621,
+            "traffic_index": 204.25,
+            "time_mins": 49,
+            "time_index": 5695.81,
+            "inefficiency_index": 134.34,
+            "emission_index": 4650
+        },
+        {
+            "city": "São Paulo, Brazil",
+            "lat": -23.5505199,
+            "lng": -46.63330939999999,
+            "traffic_index": 213.53,
+            "time_mins": 48.18,
+            "time_index": 5186.91,
+            "inefficiency_index": 226.65,
+            "emission_index": 6126.36
+        },
+        {
+            "city": "San Francisco, CA, USA",
+            "lat": 37.7749295,
+            "lng": -122.4194155,
+            "traffic_index": 166.31,
+            "time_mins": 40.5,
+            "time_index": 1761.01,
+            "inefficiency_index": 191.83,
+            "emission_index": 4900
+        },
+        {
+            "city": "Calgary, AB, Canada",
+            "lat": 51.0453246,
+            "lng": -114.0581012,
+            "traffic_index": 149.46,
+            "time_mins": 40.36,
+            "time_index": 1718.1,
+            "inefficiency_index": 114.18,
+            "emission_index": 3245
+        },
+        {
+            "city": "Portland, OR, USA",
+            "lat": 45.5234515,
+            "lng": -122.6762071,
+            "traffic_index": 128.75,
+            "time_mins": 30,
+            "time_index": 109.43,
+            "inefficiency_index": 99.31,
+            "emission_index": 6135
+        },
+        {
+            "city": "Constanța, Romania",
+            "lat": 44.1733333,
+            "lng": 28.6383333,
+            "traffic_index": 92.57,
+            "time_mins": 30.75,
+            "time_index": 146.89,
+            "inefficiency_index": 133.73,
+            "emission_index": 1454
+        },
+        {
+            "city": "Kiev, Kyiv city, Ukraine",
+            "lat": 50.4501,
+            "lng": 30.5234,
+            "traffic_index": 115.35,
+            "time_mins": 33,
+            "time_index": 318.01,
+            "inefficiency_index": 77.98,
+            "emission_index": 3101.43
+        },
+        {
+            "city": "Cluj-Napoca 400000, Romania",
+            "lat": 46.76666669999999,
+            "lng": 23.5833333,
+            "traffic_index": 66.63,
+            "time_mins": 23.2,
+            "time_index": 23.2,
+            "inefficiency_index": 32.87,
+            "emission_index": 1080.8
+        },
+        {
+            "city": "Niš, Serbia",
+            "lat": 43.3,
+            "lng": 21.9,
+            "traffic_index": 44.79,
+            "time_mins": 19.6,
+            "time_index": 19.6,
+            "inefficiency_index": 6.37,
+            "emission_index": 332.8
+        },
+        {
+            "city": "Bremen, Germany",
+            "lat": 53.07929619999999,
+            "lng": 8.8016937,
+            "traffic_index": 92.72,
+            "time_mins": 33.6,
+            "time_index": 380.52,
+            "inefficiency_index": 70.4,
+            "emission_index": 974.8
+        },
+        {
+            "city": "Curitiba - Parana, Brazil",
+            "lat": -25.4200388,
+            "lng": -49.2650973,
+            "traffic_index": 118.86,
+            "time_mins": 28.25,
+            "time_index": 52.88,
+            "inefficiency_index": 75.83,
+            "emission_index": 5570
+        },
+        {
+            "city": "Gdańsk, Poland",
+            "lat": 54.35202520000001,
+            "lng": 18.6466384,
+            "traffic_index": 80.2,
+            "time_mins": 27.8,
+            "time_index": 44.22,
+            "inefficiency_index": 39.67,
+            "emission_index": 1556.8
+        },
+        {
+            "city": "Chicago, IL, USA",
+            "lat": 41.8781136,
+            "lng": -87.6297982,
+            "traffic_index": 113.94,
+            "time_mins": 33,
+            "time_index": 318.01,
+            "inefficiency_index": 70.14,
+            "emission_index": 2996
+        },
+        {
+            "city": "Medan, North Sumatra, Indonesia",
+            "lat": 3.5915405,
+            "lng": 98.66929979999999,
+            "traffic_index": 61.77,
+            "time_mins": 25.6,
+            "time_index": 25.85,
+            "inefficiency_index": 41.37,
+            "emission_index": 608
+        },
+        {
+            "city": "1000 Brussels, Belgium",
+            "lat": 50.84999999999999,
+            "lng": 4.35,
+            "traffic_index": 106.91,
+            "time_mins": 24.33,
+            "time_index": 24.33,
+            "inefficiency_index": 90.17,
+            "emission_index": 4644.33
+        },
+        {
+            "city": "Edinburgh, City of Edinburgh, UK",
+            "lat": 55.953252,
+            "lng": -3.188267,
+            "traffic_index": 90.78,
+            "time_mins": 23.2,
+            "time_index": 23.2,
+            "inefficiency_index": 48.54,
+            "emission_index": 3112.8
+        },
+        {
+            "city": "Canberra ACT 2601, Australia",
+            "lat": -35.2819998,
+            "lng": 149.1286843,
+            "traffic_index": 70.82,
+            "time_mins": 10.8,
+            "time_index": 10.8,
+            "inefficiency_index": 32.21,
+            "emission_index": 2606.8
+        },
+        {
+            "city": "Belfast, UK",
+            "lat": 54.59728500000001,
+            "lng": -5.93012,
+            "traffic_index": 98.71,
+            "time_mins": 20.67,
+            "time_index": 20.67,
+            "inefficiency_index": 47.77,
+            "emission_index": 4433.33
+        },
+        {
+            "city": "Boston, MA, USA",
+            "lat": 42.3584308,
+            "lng": -71.0597732,
+            "traffic_index": 143.35,
+            "time_mins": 42.4,
+            "time_index": 2398.33,
+            "inefficiency_index": 72.64,
+            "emission_index": 1888
+        },
+        {
+            "city": "Banja Luka, Bosnia and Herzegovina",
+            "lat": 44.7755294,
+            "lng": 17.2149671,
+            "traffic_index": 76.42,
+            "time_mins": 24.6,
+            "time_index": 24.6,
+            "inefficiency_index": 47.74,
+            "emission_index": 1596
+        },
+        {
+            "city": "Seattle, WA, USA",
+            "lat": 47.6062095,
+            "lng": -122.3320708,
+            "traffic_index": 215.89,
+            "time_mins": 42.5,
+            "time_index": 2435.42,
+            "inefficiency_index": 616.77,
+            "emission_index": 9842
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+h2 {
+font-family:Oxygen, sans-serif;
+font-size:35px;
+color:#FFF;
+}
+
+h3 {
+font-family:Oxygen, sans-serif;
+font-size:18px;
+line-height:150%;
+color:#FFF;
+}
+
+body,html {
+background-color:#000;
+overflow:hidden;
+}
+
+h6 {
+font-family:Oxygen, sans-serif;
+font-size:14px;
+color:#FFF;
+}
+
+p {
+font-family:Oxygen, sans-serif;
+font-size:15px;
+color:#FFF;
+}
+
+.container {
+width:275px;
+height:750px;
+margin-left:10px;
+margin-right:2px;
+float:left;
+overflow-y:visible;
+}
+
+.title {
+font-size:18px;
+text-align:center;
+margin-bottom:50px;
+border-color:#FFF;
+}
+
+.about {
+text-align:center;
+border-top: 20px;
+border-color:#FFF;
+border-style:solid;
+border-width:1px;
+}
+
+.buttons {
+width:275px;
+margin-left:10px;
+margin-right:2px;
+float:left;
+border-color:#FFF;
+}
+
+.info {
+display:table-cell;
+width:275px;
+height:400px;
+margin-bottom:55px;
+text-align:center;
+vertical-align:middle;
+}
+
+#globeContainer {
+margin-left:400px;
+overflow:hidden;
+}
